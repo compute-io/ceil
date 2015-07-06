@@ -7,7 +7,7 @@ ceil
 The [ceil function](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) is defined as
 
 <div class="equation" align="center" data-raw-text="\operatorname{ceil}(x) = \lceil x \rceil=\min\,\{n\in\mathbb{Z}\mid n\ge x\}" data-equation="eq:ceil_function">
-	<img src="https://cdn.rawgit.com/compute-io/ceil/35b8ad544ea4da341c282b644cbeb18a2170f166/docs/img/eqn.svg" alt="Equation of the ceil function.">
+	<img src="https://cdn.rawgit.com/compute-io/ceil/bc4d6229c006906d9326e2ae22be3731bce13ea4/docs/img/eqn.svg" alt="Equation of the ceil function.">
 	<br>
 </div>
 
